@@ -16,3 +16,4 @@
 ||netflixdnstest7.com^
 ||netflixdnstest8.com^
 ||netflixdnstest9.com^
+www.netflix.com
